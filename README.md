@@ -2,7 +2,7 @@
 Implementation to restore images of dunhuang cave. The project was part of the course Deep Learning for Computer Vision at National Taiwan University. The final poster of the project can be found in the following.
 
 <p align="center">
-<img src="Results/Final_poster.pdf" width="800" alt="Final Poster"/>
+<img src="Results/overview.png" width="900" alt="Final Poster"/>
 </p>
 
 ### References
